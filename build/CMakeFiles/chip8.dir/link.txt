@@ -1,3 +1,0 @@
-Y:\CMake\bin\cmake.exe -E rm -f CMakeFiles\chip8.dir/objects.a
-Y:\mingw\mingw64\bin\ar.exe qc CMakeFiles\chip8.dir/objects.a @CMakeFiles\chip8.dir\objects1.rsp
-Y:\mingw\mingw64\bin\gcc.exe -Wl,--whole-archive CMakeFiles\chip8.dir/objects.a -Wl,--no-whole-archive -o "Y:\Coding\MyProjects\Chip-8 Emulator\bin\chip8.exe" -Wl,--out-implib,"Y:\Coding\MyProjects\Chip-8 Emulator\bin\libchip8.dll.a" -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\chip8.dir\linkLibs.rsp
